@@ -1,0 +1,13 @@
+# Alles ignorieren
+*
+
+# Nur README und Profil-SVGs tracken
+!README.md
+!profile.svg
+!profile_light.svg
+!footer.svg
+!footer_light.svg
+!.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
